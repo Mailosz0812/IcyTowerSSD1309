@@ -1,7 +1,7 @@
 # Icy Tower-like Game for STM32L476RG
 
 ## Overview
-This project is an **Icy Tower-like** game developed for the **STM32L476RG** microcontroller. The game utilizes an **OLED or LCD screen** with the **SSD1306 driver** to display graphics. It was developed as part of a **practical class on computer architecture**.
+This project is an **Icy Tower-like** game developed for the **STM32L476RG** microcontroller. The game utilizes an **OLED screen** with the **SSD1306 driver** to display graphics. It was developed as part of a **practical class on computer architecture**.
 
 ## Features
 ✔ **Platform-based jumping mechanics** similar to Icy Tower.  
